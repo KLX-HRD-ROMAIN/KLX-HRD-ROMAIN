@@ -6,9 +6,7 @@
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KLX-HRD-ROMAIN&hide_border=true&layout=compact&langs_count=8&theme=github_dark&count_private=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=KLX-HRD-ROMAIN&hide_border=true&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KLX-HRD-ROMAIN&hide_border=true&theme=github-dark-blue)](https://git.io/streak-stats)
 
 <br/>
 
